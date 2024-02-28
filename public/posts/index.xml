@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Think-ink Club</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Think-ink Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Feb 2024 10:25:36 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Think-ink Club</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Wed, 28 Feb 2024 10:25:36 +0530</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>Hi, We are a community to meet like minded people with love for books, cinema, poetry etc. Follow us and join us on every sunday at 4 P.M at Congress Well, Tilakwadi, Belagavi.</description>
+    </item>
+  </channel>
+</rss>

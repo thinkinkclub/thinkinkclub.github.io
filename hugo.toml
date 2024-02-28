@@ -1,0 +1,4 @@
+baseURL = 'https://thinkinkclub.github.io/'
+languageCode = 'en-us'
+title = 'Think-ink Club'
+theme = 'gohugo-theme-ananke'
