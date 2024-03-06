@@ -39,3 +39,23 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
+
+[[main.menu]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main.menu]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[main.menu]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[main.menu]]
+name = "Tags"
+url = "/tags"
+weight = 4
