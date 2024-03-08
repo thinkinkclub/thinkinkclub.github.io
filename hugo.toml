@@ -2,3 +2,23 @@ baseURL = 'https://thinkinkclub.github.io/'
 languageCode = 'en-us'
 title = 'Think-ink Club'
 theme = 'gohugo-theme-ananke'
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
