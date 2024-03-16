@@ -1,7 +1,7 @@
 baseURL = 'https://thinkinkclub.github.io/'
 languageCode = 'en-us'
 title = 'Think-ink Club'
-theme = 'gohugo-theme-ananke'
+theme = 'hugo-paper'
 
 [[menu.main]]
 name = "Home"
@@ -15,7 +15,7 @@ weight = 2
 
 [[menu.main]]
 name = "About"
-url = "/about"
+url = "about"
 weight = 3
 
 [[menu.main]]
