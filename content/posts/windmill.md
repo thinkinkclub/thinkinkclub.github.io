@@ -6,6 +6,8 @@ tags = ['poem']
 author = 'Juliann Correa'
 +++
 
+Context : windmill is a poem with admiration for windmills.
+
 i stand tall alone\
 like a tree clone\
 i create ambient order\

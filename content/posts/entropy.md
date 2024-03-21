@@ -5,6 +5,7 @@ draft = false
 tags = ['poem']
 author = 'Juliann Correa'
 +++
+Context : entropy is a little poem about order vs disorder and the effort it takes to work
 
 dont fret young man\
 i bet you can\
