@@ -2,7 +2,7 @@
 title = 'Reminiscences | Episode 01'
 date = 2024-03-21
 draft = false
-tags = ['writeup-series']
+tags = ['short-stories']
 author = 'Sourabh'
 +++
 He cast a glance at the window to his right, his eyes half closed. Hoping to see light
