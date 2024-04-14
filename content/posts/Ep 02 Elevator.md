@@ -2,7 +2,7 @@
 title = 'Elevator | Episode 02'
 date = 2024-04-14
 draft = false
-tags = ['writeup-series']
+tags = ['short stories']
 author = 'Sourabh Su. Bhi'
 +++
 <b>H</b>e tapped his ID card against the small device, its green light blinking rhythmically. The glass doors swiftly slid open, revealing the path to the outside world. Though a sense of lightness filled his steps as he exited his office, he still found himself dragging his feet to the elevator. With a press of a button he waited for the elevator to arrive, aware of the fact that his office was on the 10th floor of the twelve-story building.
