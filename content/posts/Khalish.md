@@ -1,10 +1,4 @@
-+++ 
-title = 'ख़लिश' 
-date = 2024-04-06 
-draft = false 
-tags = ['writeup-series'] 
-author = 'Sneha Chaand' 
-+++ 
++++ title = 'ख़लिश' date = 2024-04-19 draft = false tags = ['ख़लिश'] author = 'sneha chaand' +++
 
 ख़लिश
 
