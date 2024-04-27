@@ -1,5 +1,5 @@
 +++ 
-title = 'Khalish' 
+title = 'ख़लिश' 
 date = 2024-04-06 
 draft = false 
 tags = ['writeup-series'] 
