@@ -1,3 +1,11 @@
++++ 
+title = 'bite' 
+date = 2024-08-27 
+draft = false 
+tags = ['poem'] 
+author = 'juliannevillecorrea'
++++
+
 
 I am hungry now\
 want to eat vatana\
