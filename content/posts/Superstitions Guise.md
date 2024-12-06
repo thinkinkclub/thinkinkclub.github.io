@@ -2,7 +2,7 @@
 title = 'Superstitions Guise'
 date = 2024-11-16
 draft = false
-tags = ['Superstition's Guise']
+tags = ['Superstitions Guise']
 author = 'Abhishek A S'
 +++
 
