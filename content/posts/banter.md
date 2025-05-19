@@ -6,7 +6,7 @@ tags = ['poem']
 author = 'Julian Correa'
 +++
 
-Context : small talk
+
 
 Ant to frog in abode\
 Whats the toad code ?\
@@ -15,6 +15,6 @@ Does it not love corrode ?
 
 Fear not ant hot bod\
 Our elders have swallowed\
-meals temporary borrowed\
-till death comes to each as we sowed
+Meals temporary borrowed\
+Till death comes to each as we sowed
 
