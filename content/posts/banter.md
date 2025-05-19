@@ -1,6 +1,6 @@
 +++
 title = 'Banter'
-date = 2025-05-19
+date = 2025-05-18
 draft = false
 tags = ['poem']
 author = 'Julian Correa'
