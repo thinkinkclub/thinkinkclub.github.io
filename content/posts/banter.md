@@ -2,11 +2,11 @@
 title = 'Banter'
 date = 2025-05-19
 draft = false
-tags = ['verse']
+tags = ['poem']
 author = 'Julian Correa'
 +++
 
-Context : small talk\
+Context : small talk
 
 Ant to frog in abode\
 Whats the toad code ?\
